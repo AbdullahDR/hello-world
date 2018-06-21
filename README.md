@@ -1,6 +1,5 @@
 # hello-world
-hi
-هلو اني عبدالله 
-مبرمج متدرب 
-احاول فهم البرمجه 
-لابدا تصميم برامج و العاب
+Hello, I am Abdullah
+Trainee programmer
+I am trying to understand the programming
+To design programs and games
